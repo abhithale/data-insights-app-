@@ -15,7 +15,7 @@ A website where you upload a CSV or Excel file and instantly get:
 - **Frontend**: Plain HTML/CSS/JS (no framework), Chart.js for graphs
 - Everything is served from the same backend — no separate frontend server needed.
 
-## Setup
+## Setup 
 
 1. Install dependencies:
    ```bash
