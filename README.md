@@ -9,6 +9,7 @@ A website where you upload a CSV or Excel file and instantly get:
 - Plain-English insights ("Strongest relationship: X and Y have a positive correlation of 0.98")
 - A preview table of your data
 
+
 ## Tech Stack
 - **Backend**: FastAPI (Python)
 - **Data analysis**: pandas + numpy
