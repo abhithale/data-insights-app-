@@ -11,6 +11,7 @@ A website where you upload a CSV or Excel file and instantly get:
 
 
 ## Tech Stack
+
 - **Backend**: FastAPI (Python)
 - **Data analysis**: pandas + numpy
 - **Frontend**: Plain HTML/CSS/JS (no framework), Chart.js for graphs
